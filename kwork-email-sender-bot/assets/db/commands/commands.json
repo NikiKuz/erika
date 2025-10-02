@@ -1,0 +1,18 @@
+[
+    {
+        "command": "/start",
+        "description": "Начать рассылку"
+    },
+    {
+        "command": "/file",
+        "description": "Загрузить файл с имейлами"
+    },
+    {
+        "command": "/send",
+        "description": "Отправить имейлы"
+    },
+    {
+        "command": "/text",
+        "description": "Изменить текст для письмо"
+    }
+]
